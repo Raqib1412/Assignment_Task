@@ -10,6 +10,7 @@ Frontend Development:
     b. If the screen width is between 700px and 767px, shrink the page by 80%.
     c. If the screen width is between 600px and 700px, shrink the width to 75%.
     d. If the screen width is less than or equal to 600px, shrink the width to 50%.
+
 Django:
  1. Develop a chat application with the following features:
     a. Users can sign up and log in.
